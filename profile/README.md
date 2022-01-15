@@ -1,3 +1,1 @@
-<img src="../assets/blaziteOSS.png" width="400" />
-
-![Screenshot](../assets/blaziteOSS.png)
+<img src="https://blazite.com/img/blaziteOSS.png" width="400" />
