@@ -1,1 +1,1 @@
-<img src="https://blazite.com/img/blaziteOSSbanner.png" width="100%" />
+<img src="https://blazite.com/img/blaziteOSS.png" width="100%" />
